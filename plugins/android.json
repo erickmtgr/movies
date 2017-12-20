@@ -1,0 +1,24 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.erickma.hello"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.erickma.hello"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.erickma.hello"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.erickma.hello"
+    }
+  },
+  "dependent_plugins": {}
+}

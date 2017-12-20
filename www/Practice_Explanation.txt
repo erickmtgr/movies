@@ -1,0 +1,15 @@
+1- Show Movie list. Here I have connected to the movie database and printed the 
+list of movies using ListView. What I show is: image, title and release date.
+2- Movie details. When you click a movie of the list you go tho another page of the 
+app getting its id. On this page the details of the movie are shown: Poster image, title,
+release date, average mark of the reviewers and sypnosis of the movie.
+3- Save movie. I have created a table using sqlite where the movie data is saved. 
+To save a movie on your favorite list, you have to go to the details of that movie and then
+click on the 'add to favorite' button that's on the bottom of that page. This action INSERTS
+the movie data on our table. 
+4- Show favorite movies. To see the list with your favorite movies you have to open the 
+side menu and the click on 'Favorite movies'. On this page all your favorite movies are
+shown, and you can delete them from the list using a button. This action DELETES the movie
+of our table. 
+
+What I haven't achieved: to mark favorite movies with a star image. 
